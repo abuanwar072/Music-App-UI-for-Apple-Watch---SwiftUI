@@ -7,6 +7,6 @@ In this video we create three screens for music app that run on your apple watch
 
 ### Music App UI for Apple Watch Final UI
 
-![Preview](/gif.gif)
+![Preview](images/gif.gif)
 
 ![App UI](images/ui.png)
