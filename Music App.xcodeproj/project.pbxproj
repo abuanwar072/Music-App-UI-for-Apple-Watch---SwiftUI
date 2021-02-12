@@ -22,6 +22,28 @@
 		881280D425D18EC00006818B /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 881280D325D18EC00006818B /* HomeScreen.swift */; };
 		881280D925D193180006818B /* ArtistScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 881280D825D193180006818B /* ArtistScreen.swift */; };
 		887D34C025D691FD00A54E72 /* ui.png in Resources */ = {isa = PBXBuildFile; fileRef = 887D34BF25D691FD00A54E72 /* ui.png */; };
+		88BFBD3125D6A56F004FFE28 /* poster_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD1C25D6A56E004FFE28 /* poster_3.png */; };
+		88BFBD3225D6A56F004FFE28 /* artist_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD1D25D6A56E004FFE28 /* artist_2.png */; };
+		88BFBD3325D6A56F004FFE28 /* artist_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD1E25D6A56E004FFE28 /* artist_3.png */; };
+		88BFBD3425D6A56F004FFE28 /* artist_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD1F25D6A56E004FFE28 /* artist_7.png */; };
+		88BFBD3525D6A56F004FFE28 /* artist_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2025D6A56E004FFE28 /* artist_8.png */; };
+		88BFBD3625D6A56F004FFE28 /* poster_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2125D6A56F004FFE28 /* poster_9.png */; };
+		88BFBD3725D6A56F004FFE28 /* artist_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2225D6A56F004FFE28 /* artist_5.png */; };
+		88BFBD3825D6A56F004FFE28 /* artist_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2325D6A56F004FFE28 /* artist_1.png */; };
+		88BFBD3925D6A56F004FFE28 /* artist_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2425D6A56F004FFE28 /* artist_4.png */; };
+		88BFBD3A25D6A56F004FFE28 /* poster_7.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2525D6A56F004FFE28 /* poster_7.png */; };
+		88BFBD3B25D6A56F004FFE28 /* top_atrist.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2625D6A56F004FFE28 /* top_atrist.png */; };
+		88BFBD3C25D6A56F004FFE28 /* Selena Gomez.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2725D6A56F004FFE28 /* Selena Gomez.png */; };
+		88BFBD3D25D6A56F004FFE28 /* poster_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2825D6A56F004FFE28 /* poster_6.png */; };
+		88BFBD3E25D6A56F004FFE28 /* poster_5.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2925D6A56F004FFE28 /* poster_5.png */; };
+		88BFBD3F25D6A56F004FFE28 /* poster_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2A25D6A56F004FFE28 /* poster_1.jpg */; };
+		88BFBD4025D6A56F004FFE28 /* artist_6.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2B25D6A56F004FFE28 /* artist_6.png */; };
+		88BFBD4125D6A56F004FFE28 /* artist_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2C25D6A56F004FFE28 /* artist_9.png */; };
+		88BFBD4225D6A56F004FFE28 /* poster_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2D25D6A56F004FFE28 /* poster_2.png */; };
+		88BFBD4325D6A56F004FFE28 /* poster_8.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2E25D6A56F004FFE28 /* poster_8.png */; };
+		88BFBD4425D6A56F004FFE28 /* star.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD2F25D6A56F004FFE28 /* star.pdf */; };
+		88BFBD4525D6A56F004FFE28 /* poster_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD3025D6A56F004FFE28 /* poster_4.png */; };
+		88BFBD4A25D6A5D7004FFE28 /* gif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 88BFBD4925D6A5D7004FFE28 /* gif.gif */; };
 		88EE857F25D2DEED0015F5AE /* SongsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EE857E25D2DEED0015F5AE /* SongsScreen.swift */; };
 		88EE858425D2E21D0015F5AE /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EE858325D2E21D0015F5AE /* Song.swift */; };
 /* End PBXBuildFile section */
@@ -89,6 +111,28 @@
 		881280D825D193180006818B /* ArtistScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistScreen.swift; sourceTree = "<group>"; };
 		887D34BD25D6910F00A54E72 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		887D34BF25D691FD00A54E72 /* ui.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ui.png; sourceTree = "<group>"; };
+		88BFBD1C25D6A56E004FFE28 /* poster_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_3.png; sourceTree = "<group>"; };
+		88BFBD1D25D6A56E004FFE28 /* artist_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_2.png; sourceTree = "<group>"; };
+		88BFBD1E25D6A56E004FFE28 /* artist_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_3.png; sourceTree = "<group>"; };
+		88BFBD1F25D6A56E004FFE28 /* artist_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_7.png; sourceTree = "<group>"; };
+		88BFBD2025D6A56E004FFE28 /* artist_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_8.png; sourceTree = "<group>"; };
+		88BFBD2125D6A56F004FFE28 /* poster_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_9.png; sourceTree = "<group>"; };
+		88BFBD2225D6A56F004FFE28 /* artist_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_5.png; sourceTree = "<group>"; };
+		88BFBD2325D6A56F004FFE28 /* artist_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_1.png; sourceTree = "<group>"; };
+		88BFBD2425D6A56F004FFE28 /* artist_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_4.png; sourceTree = "<group>"; };
+		88BFBD2525D6A56F004FFE28 /* poster_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_7.png; sourceTree = "<group>"; };
+		88BFBD2625D6A56F004FFE28 /* top_atrist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top_atrist.png; sourceTree = "<group>"; };
+		88BFBD2725D6A56F004FFE28 /* Selena Gomez.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Selena Gomez.png"; sourceTree = "<group>"; };
+		88BFBD2825D6A56F004FFE28 /* poster_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_6.png; sourceTree = "<group>"; };
+		88BFBD2925D6A56F004FFE28 /* poster_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_5.png; sourceTree = "<group>"; };
+		88BFBD2A25D6A56F004FFE28 /* poster_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = poster_1.jpg; sourceTree = "<group>"; };
+		88BFBD2B25D6A56F004FFE28 /* artist_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_6.png; sourceTree = "<group>"; };
+		88BFBD2C25D6A56F004FFE28 /* artist_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = artist_9.png; sourceTree = "<group>"; };
+		88BFBD2D25D6A56F004FFE28 /* poster_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_2.png; sourceTree = "<group>"; };
+		88BFBD2E25D6A56F004FFE28 /* poster_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_8.png; sourceTree = "<group>"; };
+		88BFBD2F25D6A56F004FFE28 /* star.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = star.pdf; sourceTree = "<group>"; };
+		88BFBD3025D6A56F004FFE28 /* poster_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = poster_4.png; sourceTree = "<group>"; };
+		88BFBD4925D6A5D7004FFE28 /* gif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif.gif; sourceTree = "<group>"; };
 		88EE857E25D2DEED0015F5AE /* SongsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongsScreen.swift; sourceTree = "<group>"; };
 		88EE858325D2E21D0015F5AE /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -183,6 +227,28 @@
 		887D34BE25D691DE00A54E72 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				88BFBD2325D6A56F004FFE28 /* artist_1.png */,
+				88BFBD1D25D6A56E004FFE28 /* artist_2.png */,
+				88BFBD1E25D6A56E004FFE28 /* artist_3.png */,
+				88BFBD2425D6A56F004FFE28 /* artist_4.png */,
+				88BFBD2225D6A56F004FFE28 /* artist_5.png */,
+				88BFBD2B25D6A56F004FFE28 /* artist_6.png */,
+				88BFBD1F25D6A56E004FFE28 /* artist_7.png */,
+				88BFBD2025D6A56E004FFE28 /* artist_8.png */,
+				88BFBD2C25D6A56F004FFE28 /* artist_9.png */,
+				88BFBD2A25D6A56F004FFE28 /* poster_1.jpg */,
+				88BFBD4925D6A5D7004FFE28 /* gif.gif */,
+				88BFBD2D25D6A56F004FFE28 /* poster_2.png */,
+				88BFBD1C25D6A56E004FFE28 /* poster_3.png */,
+				88BFBD3025D6A56F004FFE28 /* poster_4.png */,
+				88BFBD2925D6A56F004FFE28 /* poster_5.png */,
+				88BFBD2825D6A56F004FFE28 /* poster_6.png */,
+				88BFBD2525D6A56F004FFE28 /* poster_7.png */,
+				88BFBD2E25D6A56F004FFE28 /* poster_8.png */,
+				88BFBD2125D6A56F004FFE28 /* poster_9.png */,
+				88BFBD2725D6A56F004FFE28 /* Selena Gomez.png */,
+				88BFBD2F25D6A56F004FFE28 /* star.pdf */,
+				88BFBD2625D6A56F004FFE28 /* top_atrist.png */,
 				887D34BF25D691FD00A54E72 /* ui.png */,
 			);
 			path = images;
@@ -287,7 +353,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88BFBD3325D6A56F004FFE28 /* artist_3.png in Resources */,
+				88BFBD3D25D6A56F004FFE28 /* poster_6.png in Resources */,
+				88BFBD3825D6A56F004FFE28 /* artist_1.png in Resources */,
+				88BFBD4525D6A56F004FFE28 /* poster_4.png in Resources */,
+				88BFBD3525D6A56F004FFE28 /* artist_8.png in Resources */,
+				88BFBD4A25D6A5D7004FFE28 /* gif.gif in Resources */,
+				88BFBD3725D6A56F004FFE28 /* artist_5.png in Resources */,
+				88BFBD3C25D6A56F004FFE28 /* Selena Gomez.png in Resources */,
+				88BFBD3125D6A56F004FFE28 /* poster_3.png in Resources */,
+				88BFBD3625D6A56F004FFE28 /* poster_9.png in Resources */,
+				88BFBD4425D6A56F004FFE28 /* star.pdf in Resources */,
+				88BFBD3F25D6A56F004FFE28 /* poster_1.jpg in Resources */,
+				88BFBD3425D6A56F004FFE28 /* artist_7.png in Resources */,
+				88BFBD4125D6A56F004FFE28 /* artist_9.png in Resources */,
+				88BFBD3925D6A56F004FFE28 /* artist_4.png in Resources */,
+				88BFBD4025D6A56F004FFE28 /* artist_6.png in Resources */,
+				88BFBD3E25D6A56F004FFE28 /* poster_5.png in Resources */,
+				88BFBD4225D6A56F004FFE28 /* poster_2.png in Resources */,
+				88BFBD4325D6A56F004FFE28 /* poster_8.png in Resources */,
+				88BFBD3225D6A56F004FFE28 /* artist_2.png in Resources */,
 				887D34C025D691FD00A54E72 /* ui.png in Resources */,
+				88BFBD3B25D6A56F004FFE28 /* top_atrist.png in Resources */,
+				88BFBD3A25D6A56F004FFE28 /* poster_7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
